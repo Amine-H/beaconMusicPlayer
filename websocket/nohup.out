@@ -1,0 +1,94 @@
+[33m[nodemon] 1.12.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+
+┌──────────────────────────────────────────────────────┐
+│             nodemon update check failed              │
+│         Try running with sudo or get access          │
+│         to the local update config store via         │
+│ sudo chown -R $USER:$(id -gn $USER) /home/ah/.config │
+└──────────────────────────────────────────────────────┘
+events.js:163
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Sun, 12 Nov 2017 14:00:02 GMT express deprecated res.sendfile: Use res.sendFile instead at index.js:8:7
+[33m[nodemon] 1.12.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+events.js:163
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Sun, 12 Nov 2017 14:45:31 GMT express deprecated res.sendfile: Use res.sendFile instead at index.js:8:7
+[33m[nodemon] 1.12.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+
+┌──────────────────────────────────────────────────────┐
+│             nodemon update check failed              │
+│         Try running with sudo or get access          │
+│         to the local update config store via         │
+│ sudo chown -R $USER:$(id -gn $USER) /home/ah/.config │
+└──────────────────────────────────────────────────────┘
+events.js:163
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Sun, 12 Nov 2017 14:58:33 GMT express deprecated res.sendfile: Use res.sendFile instead at index.js:8:7
+[33m[nodemon] 1.12.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+
+┌──────────────────────────────────────────────────────┐
+│             nodemon update check failed              │
+│         Try running with sudo or get access          │
+│         to the local update config store via         │
+│ sudo chown -R $USER:$(id -gn $USER) /home/ah/.config │
+└──────────────────────────────────────────────────────┘
+events.js:163
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+[33m[nodemon] 1.12.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+
+┌──────────────────────────────────────────────────────┐
+│             nodemon update check failed              │
+│         Try running with sudo or get access          │
+│         to the local update config store via         │
+│ sudo chown -R $USER:$(id -gn $USER) /home/ah/.config │
+└──────────────────────────────────────────────────────┘
+events.js:163
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Server listening at port 5555
+[33m[nodemon] 1.12.1[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching: *.*[39m
+[32m[nodemon] starting `node index.js`[39m
+
+┌──────────────────────────────────────────────────────┐
+│             nodemon update check failed              │
+│         Try running with sudo or get access          │
+│         to the local update config store via         │
+│ sudo chown -R $USER:$(id -gn $USER) /home/ah/.config │
+└──────────────────────────────────────────────────────┘
+events.js:163
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Server listening at port 5555
